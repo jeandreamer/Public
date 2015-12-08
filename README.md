@@ -1,2 +1,1 @@
 # Public
-# Coursera Assignments
